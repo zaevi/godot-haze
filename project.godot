@@ -16,7 +16,12 @@ _global_script_class_icons={
 [application]
 
 config/name="Godot-Haze"
+run/main_scene="res://main_demo.tscn"
 config/icon="res://icon.png"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "inspector_category_and_section" )
 
 [rendering]
 

@@ -1,0 +1,19 @@
+[gd_scene format=2]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 31.1815
+margin_top = 17.818
+margin_right = 462.181
+margin_bottom = 31.818
+text = "Select any node to preview InspectorCategory and InspectorSection"
+__meta__ = {
+"_edit_use_anchors_": false
+}
